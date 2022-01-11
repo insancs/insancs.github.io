@@ -1183,7 +1183,7 @@ section {
 .portfolio1 .portfolio-img {
   position: relative;
   overflow: hidden;
-  height: 260px;
+  height: 250px;
 }
 .portfolio1 .portfolio-img img {
   position: relative;
@@ -1209,10 +1209,10 @@ section {
   box-shadow: 0 0 20px rgba(0, 0, 0, .20);
 }
 .portfolio1 .portfolio-text h4 {
-  width: calc(100% - 70px);
+  width: 100%;
   font-size: 15px;
-  font-weight: 600;
-  margin: 0 0 0 15px;
+  font-weight: 700;
+  margin: 0 15px 0 15px;
   white-space: nowrap;
   overflow: hidden;
 }
